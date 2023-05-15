@@ -3,7 +3,7 @@
 Task 2: Hypermedia pagination
 """
 import csv
-from typing import List, Tuple
+from typing import List, Tuple, Dict
 import math
 
 
